@@ -1,4 +1,5 @@
 var $carousel = $('.gallery').flickity({
+    cellAlign: 'left',
     prevNextButtons: false,
     pageDots: false
 });
