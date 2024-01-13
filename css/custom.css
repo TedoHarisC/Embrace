@@ -1,3 +1,11 @@
 .gallery-cell.is-selected {
-    background: #ED2;
+    background: #3461FF;
+}
+
+.gallery-cell.is-selected h3 {
+    color: #FFFFFF;
+}
+
+.gallery-cell.is-selected label {
+    color: #FFFFFF;
 }
